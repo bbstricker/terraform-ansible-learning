@@ -1,10 +1,9 @@
-# Lab 01 — Terraform Basics
+# Lab 01 — Terraform with AWS
 
 ## What I Learned
 - Providers
 - Resources
 - Variables
-- Outputs
 - Terraform with AWS:
 * Create Users with IAM role and added needed permissions
 

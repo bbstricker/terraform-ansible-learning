@@ -23,7 +23,9 @@
 ====================
 -> IAM role with exactly the permissions needed
 
--> S3 Buckets, Bucket Objects and Bucket Policy
+-> AWS S3 Buckets, Bucket Objects and Bucket Policy
+
+-> AWS Dynamo DB and Dynamo DB Objetc
 
 -> A VPC with its own private network 
 

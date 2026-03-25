@@ -23,6 +23,8 @@
 ====================
 -> IAM role with exactly the permissions needed
 
+-> S3 Buckets, Bucket Objects and Bucket Policy
+
 -> A VPC with its own private network 
 
 -> Subnet, internet gateway, route table 

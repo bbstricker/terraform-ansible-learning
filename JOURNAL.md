@@ -35,3 +35,33 @@
 
 >> To do Labs (Azure):
 ======================
+
+-> Create Azure RG
+
+-> Create AKS Cluster
+
+-> Create Linux VM / Windows VM
+
+-> Networking: Deploy with multiples addresses
+
+-> Networking: Nat Gateway / Private Endpoint
+
+
+
+## Day 1
+- Installed Terraform, AWS CLI, Azure CLI
+- Learned providers and resources
+- Created first S3 bucket
+
+## Day 2
+- Learned variables and outputs (AWS)
+- Created IAM Users, Policy
+- Documented lab in READ.md
+
+
+## Day 3
+- Learned providers, resources, variables and outputs (Azure)
+- Created Azure RG
+- Documented lab in READ.md
+
+
